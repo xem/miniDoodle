@@ -8,3 +8,4 @@ MiniDoodle
 - 5: horizontal mirror (428b) : http://xem.github.io/miniDoodle/5.html
 - 6: vertical mirror (428b) : http://xem.github.io/miniDoodle/6.html
 - 7: vertical & horizontal mirror (438b) : http://xem.github.io/miniDoodle/7.html
+- 8: zigzag (207b) : http://xem.github.io/miniDoodle/8.html
