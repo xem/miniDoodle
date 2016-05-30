@@ -10,4 +10,4 @@ MiniDoodle
 - 7: vertical & horizontal mirror (433b) : http://xem.github.io/miniDoodle/7.html
 - 8: zigzag (206b) : http://xem.github.io/miniDoodle/8.html
 - 9: 4 + undo (421b) : http://xem.github.io/miniDoodle/9.html
-- 9: pixel art + color (241b) : http://xem.github.io/miniDoodle/10.html
+- 10: pixel art + color (241b) : http://xem.github.io/miniDoodle/10.html
