@@ -11,3 +11,4 @@ MiniDoodle
 - 8: zigzag (206b) : http://xem.github.io/miniDoodle/8.html
 - 9: 4 + undo (421b) : http://xem.github.io/miniDoodle/9.html
 - 10: pixel art + color (241b) : http://xem.github.io/miniDoodle/10.html
+- 11: cadavre exquis (418b) : http://xem.github.io/miniDoodle/11.html
